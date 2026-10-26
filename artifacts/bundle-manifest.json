@@ -1,0 +1,414 @@
+[
+  {
+    "url": "index.js",
+    "len": 163087
+  },
+  {
+    "url": "npm-rxjs.3002fb8b.js",
+    "len": 40889
+  },
+  {
+    "url": "foryou-prefetch.aad670d7.js",
+    "len": 413549
+  },
+  {
+    "url": "npm-sigi.2b59dc0f.js",
+    "len": 31703
+  },
+  {
+    "url": "npm-react.6fd94d11.js",
+    "len": 417387
+  },
+  {
+    "url": "browser.oci.js?bid=tiktok_webapp&globalName=SlardarClient",
+    "len": 46227
+  },
+  {
+    "url": "core.js?globalName=__PNS_RUNTIME__",
+    "len": 113947
+  },
+  {
+    "url": "player.init.3900cab8.js",
+    "len": 227627
+  },
+  {
+    "url": "npm-dp-byted-tea-sdk-oversea.f4e273c4.js",
+    "len": 199844
+  },
+  {
+    "url": "slardar.8879cd84.js",
+    "len": 111122
+  },
+  {
+    "url": "biz.shared.kernel.init.066af3d0.js",
+    "len": 60481
+  },
+  {
+    "url": "biz.shared.growth.init.9ff7deb4.js",
+    "len": 59481
+  },
+  {
+    "url": "cache.tux.ddc90ca7.js",
+    "len": 409430
+  },
+  {
+    "url": "atom.init.8b11af59.js",
+    "len": 254967
+  },
+  {
+    "url": "i18n.2e3d03b5.js",
+    "len": 89503
+  },
+  {
+    "url": "biz.common.lib.c2a14e59.js",
+    "len": 360606
+  },
+  {
+    "url": "npm-icons-shared.672f2dd1.js",
+    "len": 75510
+  },
+  {
+    "url": "webapp-desktop.c375e1ea.js",
+    "len": 466346
+  },
+  {
+    "url": "30294.721bf7a1.js",
+    "len": 52014
+  },
+  {
+    "url": "97972.a8d0af76.js",
+    "len": 581939
+  },
+  {
+    "url": "28300.62a525d0.js",
+    "len": 86429
+  },
+  {
+    "url": "47366.840b8916.js",
+    "len": 58473
+  },
+  {
+    "url": "47308.120bebd9.js",
+    "len": 38151
+  },
+  {
+    "url": "79019.8b78725c.js",
+    "len": 32099
+  },
+  {
+    "url": "72184.e45a9990.js",
+    "len": 114102
+  },
+  {
+    "url": "76224.21029763.js",
+    "len": 39234
+  },
+  {
+    "url": "33270.2fb99fe9.js",
+    "len": 32965
+  },
+  {
+    "url": "15347.25745681.js",
+    "len": 39201
+  },
+  {
+    "url": "48436.b9bc5b60.js",
+    "len": 138059
+  },
+  {
+    "url": "29192.d78589cb.js",
+    "len": 35033
+  },
+  {
+    "url": "52733.596e07fe.js",
+    "len": 51017
+  },
+  {
+    "url": "5214.de551a35.js",
+    "len": 47240
+  },
+  {
+    "url": "10746.bafb7380.js",
+    "len": 40322
+  },
+  {
+    "url": "72278.9953f72b.js",
+    "len": 90866
+  },
+  {
+    "url": "91002.0f1e2179.js",
+    "len": 31843
+  },
+  {
+    "url": "foryou.islands.efee929c.js",
+    "len": 118540
+  },
+  {
+    "url": "70036.b10ba36e.js",
+    "len": 214172
+  },
+  {
+    "url": "75627.55f7bcc1.js",
+    "len": 1102627
+  },
+  {
+    "url": "webmssdk.js",
+    "len": 245081
+  },
+  {
+    "url": "secsdk-lastest.umd.js",
+    "len": 34848
+  },
+  {
+    "url": "12506.01f06526.js",
+    "len": 33074
+  },
+  {
+    "url": "sibyl-ai-core.4338db72.js",
+    "len": 78530
+  },
+  {
+    "url": "89240.83338e1c.js",
+    "len": 739690
+  },
+  {
+    "url": "devtools.js?globalName=__PNS_RUNTIME__&__PNS_SW_CACHE__=1&__",
+    "len": 61102
+  },
+  {
+    "url": "vodsr-worker-BtW-VP4y.js",
+    "len": 125185
+  },
+  {
+    "url": "webmssdk_ex.js",
+    "len": 346304
+  },
+  {
+    "url": "95047.feadcf44.js",
+    "len": 125636
+  },
+  {
+    "url": "40813.f2a6b9c8.js",
+    "len": 119523
+  },
+  {
+    "url": "72737.4ec6163d.js",
+    "len": 120713
+  },
+  {
+    "url": "83268.b2eb1365.js",
+    "len": 771354
+  },
+  {
+    "url": "25152.a50c2946.js",
+    "len": 81979
+  },
+  {
+    "url": "16119.4be2579f.js",
+    "len": 119110
+  },
+  {
+    "url": "14293.d4992191.js",
+    "len": 115055
+  },
+  {
+    "url": "46404.2bcf4988.js",
+    "len": 155258
+  },
+  {
+    "url": "71799.cec16f83.js",
+    "len": 107882
+  },
+  {
+    "url": "25129.3d42686b.js",
+    "len": 81372
+  },
+  {
+    "url": "73769.7d4c4fe2.js",
+    "len": 41393
+  },
+  {
+    "url": "90234.1394b6c9.js",
+    "len": 64138
+  },
+  {
+    "url": "78182.c8463a5d.js",
+    "len": 58117
+  },
+  {
+    "url": "header-island.4829142a.js",
+    "len": 164200
+  },
+  {
+    "url": "59658.797c9d51.js",
+    "len": 65930
+  },
+  {
+    "url": "11648.73a91b4e.js",
+    "len": 48108
+  },
+  {
+    "url": "5907.dfd745d0.js",
+    "len": 34299
+  },
+  {
+    "url": "25873.a49336a4.js",
+    "len": 122167
+  },
+  {
+    "url": "87691.ede329a5.js",
+    "len": 353134
+  },
+  {
+    "url": "76161.b0719280.js",
+    "len": 116082
+  },
+  {
+    "url": "stories-player.ddc51f4b.js",
+    "len": 122749
+  },
+  {
+    "url": "84592.9f8097fd.js",
+    "len": 32127
+  },
+  {
+    "url": "64027.f3e2bdf8.js",
+    "len": 224379
+  },
+  {
+    "url": "side-nav-island.4701ea9f.js",
+    "len": 358534
+  },
+  {
+    "url": "73955.f9f4900c.js",
+    "len": 78823
+  },
+  {
+    "url": "51680.a131c42e.js",
+    "len": 40769
+  },
+  {
+    "url": "99682.8051d1e3.js",
+    "len": 244025
+  },
+  {
+    "url": "86177.10140e55.js",
+    "len": 30327
+  },
+  {
+    "url": "97483.a96a4ac5.js",
+    "len": 31240
+  },
+  {
+    "url": "53439.65bf0638.js",
+    "len": 67445
+  },
+  {
+    "url": "23987.5a3699fc.js",
+    "len": 39766
+  },
+  {
+    "url": "80982.55ae97f6.js",
+    "len": 45916
+  },
+  {
+    "url": "2135.499c4ae0.js",
+    "len": 45848
+  },
+  {
+    "url": "action-bar.f0691339.js",
+    "len": 73858
+  },
+  {
+    "url": "26893.06034b67.js",
+    "len": 35916
+  },
+  {
+    "url": "73921.9b0ca3f9.js",
+    "len": 229605
+  },
+  {
+    "url": "14771.a68bb19d.js",
+    "len": 103663
+  },
+  {
+    "url": "16914.3505c9f7.js",
+    "len": 41110
+  },
+  {
+    "url": "sideEffect-island.48638df2.js",
+    "len": 273448
+  },
+  {
+    "url": "19791.293187db.js",
+    "len": 47381
+  },
+  {
+    "url": "63875.f0330e78.js",
+    "len": 82727
+  },
+  {
+    "url": "13689.8d64cbcc.js",
+    "len": 81851
+  },
+  {
+    "url": "npm-lottie.a9e4e188.js",
+    "len": 305928
+  },
+  {
+    "url": "seo-expanded-section.c09f25ce.js",
+    "len": 36576
+  },
+  {
+    "url": "fixed-bottom.2c602ad1.js",
+    "len": 105345
+  },
+  {
+    "url": "tiktok-fe-shared-safety-ad-pc-components-ad-violation-appeal",
+    "len": 74469
+  },
+  {
+    "url": "ad-report-loadable.5cc10f01.js",
+    "len": 80176
+  },
+  {
+    "url": "report.f4ec3a98.js",
+    "len": 60846
+  },
+  {
+    "url": "24764.8b9f8aff.js",
+    "len": 52483
+  },
+  {
+    "url": "14092.d9fc1f4a.js",
+    "len": 33527
+  },
+  {
+    "url": "bottom-side-effect-island.79024a99.js",
+    "len": 190347
+  },
+  {
+    "url": "32335.92945e3c.js",
+    "len": 41237
+  },
+  {
+    "url": "74857.f41edf6b.js",
+    "len": 70723
+  },
+  {
+    "url": "notification-side-effect-island.ec44e0ff.js",
+    "len": 86009
+  },
+  {
+    "url": "26977.616b11b5.js",
+    "len": 699149
+  },
+  {
+    "url": "23462.096053a7.js",
+    "len": 38609
+  },
+  {
+    "url": "more-menu.a60ff2d6.js",
+    "len": 35567
+  }
+]
