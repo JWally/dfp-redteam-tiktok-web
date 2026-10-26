@@ -1,0 +1,131 @@
+{
+  "clean": {
+    "label": "clean",
+    "sigs": [
+      {
+        "url": "https://www.tiktok.com/api/recommend/item_list/?WebIdLastTime=1793014973&aid=198",
+        "params": {
+          "msToken": "",
+          "X-Bogus": "1",
+          "X-Gnarly": "MaJXwZUkGdYxTC77DqxrhoTpbU4lwDr2celEcUM/J5LQjFkDU4WQ6siCTjYJvW9GZkcLkBif//3/h8CyXK7DOVmDZOfXWpuoNh5UgXE6nteR3SC3o/ghXKLKt/C8vNN5yl63SFwRBAlhpLiQAR1BAfRUgTS2S4ARelHirCaTwDqcJWBRIyccHfHSPEH/q4otvSebHqzKYUTKorNyP5kiwWBXEEHz4QcOitT5HGnZAz16Qv5wqsxmKXwX1YDB5Zq5AjXbcHol1bANPiXZh4Kxa6gIFT-xJtdRMq1Tm4sHM/pr5YhhheFVNuwY7QhC6OAH7Ms3PAKJwUGH"
+        }
+      },
+      {
+        "url": "https://www.tiktok.com/api/preload/item_list/?WebIdLastTime=1793014973&aid=1988&",
+        "params": {
+          "msToken": "",
+          "X-Bogus": "1",
+          "X-Gnarly": "MP5ziBjCm43xXGMpm9z3et5BGjohpMh0IesXi7lHbEJA0fRD/GkpcYDRfcIA9maLjoT9jd7vGYx1mM1UkImAk4XF51joQ8l9dHDjKOX8og/8x9z7Df-as4PdCseCF7gLbmEGPfEfeGj-R5DTpUwQH/8dFfjA7cBnHTirxP1VbrdxPPNEP0TE2fGBdQqUrqYJco7kJ6Xpx6nG2ww2gHTif9qD59iVs-A0HULZdfMCmfpj2FnG3yELp46UI05aAQHlJt6cEKlDV89SsuZ2xnelKkcSIkNeNkk8uqT03EaPAm6A1F5RM32oWqkxLLTrb5UB74illHtKlGrL"
+        }
+      },
+      {
+        "url": "https://www.tiktok.com/api/ba/business/suite/permission/list/?WebIdLastTime=1793",
+        "params": {
+          "msToken": "c3qNrH9J8CnKnFNZUoxFhxK_8TPANeQGNMtidP57OhxjwsSSj832bUba_vcyKhgX8fEwJMWnfPB4Zy54hBz7hWF0CrY-gMDEpzty7lcCTqZeANIQZfVQPOnxMJWJJtyBKvI0CG2bNSkC1yJNEP4UWAiLVB8HoA",
+          "X-Bogus": "1",
+          "X-Gnarly": "MRMgEJNQkyq7mAwnv6j0GD9Wd3wHj6z3a0XE3toK/L1/bT0JExZVul3oo2PX3Ls8tr3OGfi8cVicXR8ne0mk/aiDpY0RJ5sRJ4tMUocTQWYwW4p2EB7XIgej2CrMnWoG9Dnu84nf5PjKnz8UVKMPTWsPA8sNXQm-1qmknpVP/iYsjnbBMd/rP5hZrouVFEzMF8Qo1Yl8CS4-5ZLOna9SjyT/SclJRjHMUaZJTfDsM8Z1bE-6VDpM9pMOf9NPWCdzSpWV2WxhGmNtjeZCZUWqQgxthfY1iXWhjrhxNprQ55AuqmULiXDnj0ThXJokGR2EH-zHj7w0Q4mo"
+        }
+      }
+    ],
+    "cookies": [
+      {
+        "name": "ttwid",
+        "value": "1%7CiCeKMcagwpLRpj8_QBQrNLTQWGMCZ8FM2yQ45_1R5gY%7C1793014974%7Cb09ab2dcbf83369239861c23fbe0c34f9fa6ef6f109282bfada29dd6a1b8526f"
+      },
+      {
+        "name": "msToken",
+        "value": "c3qNrH9J8CnKnFNZUoxFhxK_8TPANeQGNMtidP57OhxjwsSSj832bUba_vcyKhgX8fEwJMWnfPB4Zy54hBz7hWF0CrY-gMDEpzty7lcCTqZeANIQZfVQPOnxMJWJJtyBKvI0CG2bNSkC1yJNEP4UWAiLVB8HoA=="
+      },
+      {
+        "name": "msToken",
+        "value": "c3qNrH9J8CnKnFNZUoxFhxK_8TPANeQGNMtidP57OhxjwsSSj832bUba_vcyKhgX8fEwJMWnfPB4Zy54hBz7hWF0CrY-gMDEpzty7lcCTqZeANIQZfVQPOnxMJWJJtyBKvI0CG2bNSkC1yJNEP4UWAiLVB8HoA=="
+      }
+    ]
+  },
+  "tamperNav": {
+    "label": "tamper-nav",
+    "sigs": [
+      {
+        "url": "https://www.tiktok.com/api/recommend/item_list/?WebIdLastTime=1793014983&aid=198",
+        "params": {
+          "msToken": "",
+          "X-Bogus": "1",
+          "X-Gnarly": "MaXT2UY5wNGoU8vCws0TRgwJitjeSJvJjoqL7zffwDO0UEWaH9BsbtlzzEWKnHTXyn5lPMPoeAVCzKH2TOXbmoJZsLXVaTkBIAwxFCrXnMft9zYmUxFhv5hwo9K01lY6BA6p4DWGX9OhgNkfrGX/fDG0-qHhFT3sX-N7p9or/q1JD0CBnfTnH3Elmfaef822rSmLDelxkNbCpceqjpLKkmwxfvwVMOxop7dG0hGIftgPx/6DDehWIW-tNUU-Lk9L2ZHOVwmBP6AYOBsOQlPjzYvV/yBA47cq3O6LmUeRu/MdT7jPx7HcKreD8CZW9GYjj9iq9rqT4uQH"
+        }
+      },
+      {
+        "url": "https://www.tiktok.com/api/preload/item_list/?WebIdLastTime=1793014983&aid=1988&",
+        "params": {
+          "msToken": "",
+          "X-Bogus": "1",
+          "X-Gnarly": "MHaNzuTe05m7AaAwoHHzhyxJtg8Wv4F1DQNWz-DxKx54eK-kuVG7c693deLZAWfhRydYBXj2CVeSjjbbmDnbq9cspiZ2pcVi7Gr/GbLb9wYgJvT7-PaqfUiX8d5USXUf-Uu/0vxMSV87WNSnvinN787IcUmZIl5TNYyHs4nea86kxe0UhdniLOMqJK0SrKR4Ui8XzL67fWxYXKv49AOTM8a50qIltuSem-0InVpCo8eKcDDsAWAdP2SBmNaPo/-n48iRAi8XgqV8D2kOfuiiGZ5RsQuIkRfgUvY1Hed9Ni8ZxOtTctxGQURqq3GR6UWJ6tIkluojpdSZ"
+        }
+      },
+      {
+        "url": "https://www.tiktok.com/api/ba/business/suite/permission/list/?WebIdLastTime=1793",
+        "params": {
+          "msToken": "fT-KsornbfeDVk7gyheOn0bSZ9tqT8hBbfg_FvP_SOCy3lMZPQ_Ffpr3Ogr12TAqJ-CR3PsHloNsRtoM8YaGjU3oxA6jQCbDMf4RquGfn6u7dtGaz59J96oC5PAdr7wEuxvgnr15D06jU6nNJ-kD1GMcie9r",
+          "X-Bogus": "1",
+          "X-Gnarly": "MH6epCr/F7S7NF1hYPlIYTO5USwfwXn2cnQbwQ/zYE-rhP-FDdlbEYyyVXw-moUm38aY3sS1DOLNCrBdpHTg5HxheVvf60gZvrshUw-zBHKF5Et/upMeOJa/EmTR-nFgcfZudeFjAWs/BaSrIHNwFqsY7Tpiq4kLMB2hfxAQuCtkdDfP1cvAAQJM1nZ0Z88we40KDDIp-ES5-BtPXV9Ov5IS5kv1mcY6/mFwQ5OOdZqiSWsjXjKTq5Wbz8nbge7yMTVySctCATJF1jK650WAWrGaUylr7bUxybhp2QsBs7OMeeQ28GaeKbHjCfR1OdXdYESga9z0Eml1"
+        }
+      }
+    ],
+    "cookies": [
+      {
+        "name": "ttwid",
+        "value": "1%7CDVyuwcbHR2cB7ivVlk843RfkGRYSBkYDJfOd0K7RXZQ%7C1793014985%7C5c9dc760923a1ce3dbf68d7f30925fd865677fa463f37b4e001dfafe36e679aa"
+      },
+      {
+        "name": "msToken",
+        "value": "fT-KsornbfeDVk7gyheOn0bSZ9tqT8hBbfg_FvP_SOCy3lMZPQ_Ffpr3Ogr12TAqJ-CR3PsHloNsRtoM8YaGjU3oxA6jQCbDMf4RquGfn6u7dtGaz59J96oC5PAdr7wEuxvgnr15D06jU6nNJ-kD1GMcie9r"
+      },
+      {
+        "name": "msToken",
+        "value": "fT-KsornbfeDVk7gyheOn0bSZ9tqT8hBbfg_FvP_SOCy3lMZPQ_Ffpr3Ogr12TAqJ-CR3PsHloNsRtoM8YaGjU3oxA6jQCbDMf4RquGfn6u7dtGaz59J96oC5PAdr7wEuxvgnr15D06jU6nNJ-kD1GMcie9r"
+      }
+    ]
+  },
+  "tamperUA": {
+    "label": "tamper-ua",
+    "sigs": [
+      {
+        "url": "https://www.tiktok.com/api/recommend/item_list/?WebIdLastTime=1793014994&aid=198",
+        "params": {
+          "msToken": "",
+          "X-Bogus": "1",
+          "X-Gnarly": "MRxR1/mf7/2ErOcM81bPi9412KjSx2NOlnMN5sbyPbgNje6xZaJ5M47OJ/M4xKlJGw3uMK8TceIeCgW4LftN1iLSwyKIoh/JrHOx1i6ZCxc/ro1AtHvJPTYpWC8AYgc9zHqGFCAl/2dTW9jG1yzUd7X9ytN562cIADw3Y72SFwgNHSMKU04tFBLirFBZsNm/YgZtL9/zR128nDidAwv3BgeqJMDLl-Nkzjry6n-LY1mku4UvnSSDaAdp9hRArBO-iCYnnc62CpgI1yndDwPSmPoKuri8P20mStE/j7CP-6sL9-btUecAXWVcI/O3VqJm9fuVmv3Xn87y"
+        }
+      },
+      {
+        "url": "https://www.tiktok.com/api/preload/item_list/?WebIdLastTime=1793014994&aid=1988&",
+        "params": {
+          "msToken": "",
+          "X-Bogus": "1",
+          "X-Gnarly": "MRhdE3-m0u2289Qe4ynAABhIBREVDqeo2oASv30S/Vi6uyhP754EwcPomYdCpV6UWHYITjwKfxC0AyfDfZth8jJAVw9VSe7VQ4b2X/fzC2yHxOTzx9hpZ9oJMdrvZ/817MlRkRCLZ0NfM6bSXLwYeSkLRC8Lhhz7KgzR1bCIKRI-UAtpO9T73H/DE-/CJjt8qPFhNmcxlbZJ1OpEf6lgAjbrX025G0QrGIYyD-gs3dS4aethhYr3Vid4lrhb1HJSox0C3OLg1lx9cCcieoGT4yUf4n7n5FCHGdZPQefFj4HcqrCeLxtrmWOYqPpCSgUjY-VFDwCP03Eb"
+        }
+      },
+      {
+        "url": "https://www.tiktok.com/api/ba/business/suite/permission/list/?WebIdLastTime=1793",
+        "params": {
+          "msToken": "7ZJ0AeBI6jEhMwxjcw7AqpYn_JLc4iSECurTGoSuyWwUyVW4nn3xHmmUSIfvZKvJM9wE_tSqtiX9jUj7mEcPEb6bEHfSXL3XY9CevlJB3ja8gYRM50t1AX2mY3jkJC-L1vf-uMhE58ElpGafc5iO2uqbzdcZvA",
+          "X-Bogus": "1",
+          "X-Gnarly": "MKEiuqfOKmVfzd/Z0U//YmKwYOSwpSL3f7pHNyF-qCotB9Ij01FE7SaNuP6PBB30kmN1yxMitOSY7G7XxrmTXufVBh18Me-KWeUnfIEk1yIx-FGDceF6Pu7VzjwtKXf9eUp5/HD4eyXfx4-G1oALOSPV0D2JFRBKUdKnCksEedkBigWC5Nzzx9Zy0gz3ryqjwvly-8Isw/r7aEQrgXxBZhQAoUE/OjhkC0Q72-FCvwYUUlG-h9WGA1EkENhbOtj4vTF5LvVydESd-kY/lj0SOEAAPyXg/23LIVKyy3sdsmLBYFozIMJ7GOVow9yUL3ReJYYOMPggNdBC"
+        }
+      }
+    ],
+    "cookies": [
+      {
+        "name": "ttwid",
+        "value": "1%7Czw0_439facQj6caKn1UtU-JULtVrwPy5AZrBlT_kigk%7C1793014995%7C70b4203b13f97511879123fcc45d5141fe8e51c151a3ea080525cc5720dbb79c"
+      },
+      {
+        "name": "msToken",
+        "value": "7ZJ0AeBI6jEhMwxjcw7AqpYn_JLc4iSECurTGoSuyWwUyVW4nn3xHmmUSIfvZKvJM9wE_tSqtiX9jUj7mEcPEb6bEHfSXL3XY9CevlJB3ja8gYRM50t1AX2mY3jkJC-L1vf-uMhE58ElpGafc5iO2uqbzdcZvA=="
+      },
+      {
+        "name": "msToken",
+        "value": "7ZJ0AeBI6jEhMwxjcw7AqpYn_JLc4iSECurTGoSuyWwUyVW4nn3xHmmUSIfvZKvJM9wE_tSqtiX9jUj7mEcPEb6bEHfSXL3XY9CevlJB3ja8gYRM50t1AX2mY3jkJC-L1vf-uMhE58ElpGafc5iO2uqbzdcZvA=="
+      }
+    ]
+  }
+}
