@@ -25,15 +25,30 @@ red-teamed in this project. Two scales, kept separate on purpose:
 | **Verisoul** | `dd` cipher validated 100%, 195-field payload, per-delivery rotation of ids **and** constants | client-ish `device_id`/`browser_id`; AES/`dd`-style cipher | Yes — mint your own; structural hooks (rotation defeats static) | **9.5** | **72** | Replay bound by `session_token`; server checks the binding |
 | **Oscilar** | ChaCha20 state leak, 48-module payload, oracle | client `deviceID` in payload | Yes — mint/persist your own | **7.5** | **58** | Server-side verdict; payload readable |
 | **Castle** | token fully client-minted (0 network), `__cuid`, deobfuscation pass (58,809-char pool, 1,612 identifiers, numeric-keyed table, ROT13/anti-debug workers), token = `Rw` binary-tree checksum, `Nx` hook, rotating-hash finding | heaviest obfuscation of the SDK batch | Yes — public bypass ecosystem (FuckCastle/TakionAPI) mints tokens from pk | **8** | **63** | Server-side Risk scoring; client is a carrier, not a proof |
-| **Signifyd / OICU** (lite.js) | encrypt-hook, `device_id` mint | client `device_id` from `browserFingerPrint` | Yes — mint fresh | **7** | **55** | Local-only repo; server verdict |
+| **Signifyd / OICU** (lite.js) | plaintext-input hook at `SubtleCrypto.encrypt` (read/tamper before sealing), `device_id` mint | ECDH(P-256)→HKDF→AES-GCM sealed to a static **server** public key; ECDSA signed | Yes — mint fresh (attack = "be the encryptor") | **2** | **35** | Client crypto is **genuinely unbreakable** (public-key, private half never ships); finding comes from the *trust model* — client is the encryptor and server trusts client-asserted identity — not from crypto |
 | **Fingerprint Pro** | assessment only: loader v3.12.16+v4.1.6, OSS engine v5.3.0; identity **server-computed + signed** `_vid_` cookie; commercial agent CDN key-gated | server-computed identity (architecturally different) | No — identity not client-mintable | n/a (assessment) | **~80+ (identity)** | The strongest identity boundary of the batch; agent bundle not obtainable |
 | **TikTok web** | full stack: substitution-ciphered 1,913-entry string table, deobfuscated collector, 98,961-B inflated VM bytecode, live VM trace (nonce gen + engine fingerprint), **faithful runner mints X-Gnarly locally** | custom bytecode VM + self-hosting interpreter + RC4/XOR + per-request nonce + engine checks | **Yes — X-Bogus & X-Gnarly minted in-sandbox** | **9.5** | **65–70** | Server validates X-Gnarly + keyed `ttwid` sig; obfuscation raises cost, not a boundary |
 
 ---
 
-## Reading the TikTok row (final numbers)
+## Reading the columns (what the scores actually mean)
 
-- **Crypto-RE effort 9.5:** to reach *plaintext + local minting* we had to
+- **Crypto-RE effort (1–10)** = how much *cryptographic* reverse-engineering
+  the client layer required to reach plaintext / mint a token. High scores
+  (Stytch, Oscilar, Verisoul) mean we had to recover symmetric keys or break a
+  client-side cipher. **A low score here can mean two opposite things** — no
+  crypto at all, *or crypto that is genuinely unbreakable client-side*.
+  **Signifyd is the second case:** its ECDH+AES-GCM envelope is sealed to a
+  static server public key, so the ciphertext cannot be decrypted without the
+  server private key. We never broke it — we read/tampered the plaintext at the
+  `SubtleCrypto.encrypt` boundary *before* sealing. That's why its crypto-RE
+  effort is **2**: there was no crypto to break, the finding is about the trust
+  model (client is the encryptor; server trusts client-asserted identity).
+- **Resistance to determined RE (0–100)** = how well the client holds up against
+  an attacker with runtime control. 100 = the client is a real trust boundary.
+  None of these are boundaries — server-side validation is the real enforcement.
+
+## Reading the TikTok row (final numbers)- **Crypto-RE effort 9.5:** to reach *plaintext + local minting* we had to
   crack the substitution cipher, deobfuscate the collector, extract + inflate
   the real bytecode, patch the live interpreter for a dynamic trace, and build
   a faithful runner that serves the real bundles on the real origin with all
