@@ -1,0 +1,99 @@
+[
+  {
+    "u": "XPDiW3EIHMPaZn98J1Ctmq-WQf8yFpX/TYBDno2PESG9ayweS594iqZGcgc/e5nS/g4yKHt1Av4BI4k/rNExzNb3qVJRCwzXU9ugjNh0vKdcYZkff51SxVBlUhYIP3-aA2h2s-AgqtqTFkOiE9RuWclVQUiXROPUhm-9YIXxswfj8hrXOHscq7d2ub-NWHps8ld7frvC1cmD/JbYPCAGzPZyRyj7cMNLogKo4vneMBSp7z15",
+    "stack": [
+      "at window.fetch (<anonymous>:8:48)",
+      "at h (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.314/index.js:4:74879)"
+    ]
+  },
+  {
+    "u": "oqCZjJnXkXpW2pwy55-jkwoRAXJVCj59zLLcGniCco4SReU5dC8i5oZwJyyui-RDenX/DcDcvmJouK1xB5UNjdpIhKUGGHdLF6awYH8Z5uqAnY9be64h7593iU7mB08RnmR2bulDKYtRFKLPZvAiFz21BY2dXDFiQ83xpZuifk56vBMiWum5MTxiA-L6g0X8lrv0y9WvMlpBPBGYTaZPUv1DGy9pMpclfEUbasU3eKJoYv9w",
+    "stack": [
+      "at window.fetch (<anonymous>:8:48)",
+      "at h (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.314/index.js:4:74879)",
+      "at window.fetch (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.314/index.js:4:74966)",
+      "at https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/browser.oci.js?bid=tiktok_webapp&globalName=SlardarClient:1:15637",
+      "at o (https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/browser.oci.js?bid=tiktok_webapp&globalName=SlardarClient:1:3178)",
+      "at Array.C (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:11559)",
+      "at Y (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:244945)",
+      "at https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:119818",
+      "at Array.C (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:94984)",
+      "at Y (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:244945)"
+    ]
+  },
+  {
+    "u": "bfCQSP4Q3iZbXK6tol45vaqKuq/glIpg1r69sZdJAF9OwiSyvC6ia4cH0WolobRHQ/wk-CEsM6j-k52Y8SxyYfJg62sepOG24Qa4HLaVAnx22CkvbSpIcEjcgaNDZDpHyDSrcUJFMVMLaD1sifcgxGXlHPbZrmTjIFvrA2KNr6ZBXMNt6Utuq5OnKHsJLoFbwQjL9SoeExxEPWg7/gZrS-2VYTygD2u0A6MRetssvr9fUOVu",
+    "stack": [
+      "at window.fetch (<anonymous>:8:48)",
+      "at h (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.314/index.js:4:74879)",
+      "at window.fetch (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.314/index.js:4:74966)",
+      "at https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/browser.oci.js?bid=tiktok_webapp&globalName=SlardarClient:1:15637",
+      "at o (https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/browser.oci.js?bid=tiktok_webapp&globalName=SlardarClient:1:3178)",
+      "at Array.C (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:11559)",
+      "at Y (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:244945)",
+      "at https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:119818",
+      "at Array.C (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:94984)",
+      "at Y (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:244945)"
+    ]
+  },
+  {
+    "u": "n9KZ5EX4u0st9jy4RqV8QyfVZe9WDFe2T8pj8yO60qG0gsoO64w1AchmLJocuwuVWew1dxFmaYwgamHRqke81Re3FBwbO8kJJQn7eYES6Kj5Ok6/yxrCsZvQZIofJ34vDY7FG3oeHzY8B/91jIt29Y8tUM/14Q4et4rJts0ZOqpT-/BgbbBl4CFs9t9a4cdjz2l8IoKV-3RQ4UBqZviZxuAN1m2rxp8hpvgn1XdAF7KBHqdo",
+    "stack": [
+      "at window.fetch (<anonymous>:8:48)",
+      "at h (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.314/index.js:4:74879)",
+      "at window.fetch (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.314/index.js:4:74966)",
+      "at https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/browser.oci.js?bid=tiktok_webapp&globalName=SlardarClient:1:15637",
+      "at o (https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/browser.oci.js?bid=tiktok_webapp&globalName=SlardarClient:1:3178)",
+      "at Array.C (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:11559)",
+      "at Y (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:244945)",
+      "at https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:119818",
+      "at Array.C (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:94984)",
+      "at Y (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:244945)"
+    ]
+  },
+  {
+    "u": "H2dfkKIvMdpfH/ZkgoQw2Lh/EASNV8w36wd0vcSRtS25MoQVxbPLOAqtv3ldtlq8IV1WXQKYnHi3lS0noMy7ikZI2xiYCbmJ7QRM6fsNdIHVsMhE0gWLpqy-7xb4y8EZgY45Io-D0lD4PAdVZeqpIe7clI565etdVy4AGhGUUummrdkNgaZFiLTcGFat6wCVN6JfVFS/sLB9gqstZMeVfqnxqfIyytl2jO5bQ-dey2hjm7Kj",
+    "stack": [
+      "at window.fetch (<anonymous>:8:48)",
+      "at h (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.314/index.js:4:74879)",
+      "at window.fetch (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.314/index.js:4:74966)",
+      "at https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/browser.oci.js?bid=tiktok_webapp&globalName=SlardarClient:1:15637",
+      "at o (https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/browser.oci.js?bid=tiktok_webapp&globalName=SlardarClient:1:3178)",
+      "at Array.C (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:11559)",
+      "at Y (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:244945)",
+      "at https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:119818",
+      "at Array.C (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:94984)",
+      "at Y (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:244945)"
+    ]
+  },
+  {
+    "u": "fnTS73jUzQSFdli0arEwzqOMPgE54OKqBYom8Y/LPHLyb7e4H32dhh0u/GQ2p9wbF79PWtj197N6259phvIeTmw9Pfp96p9mVAKku4WrLY/Y5wjl0UITLv7rWAuysDrUrb7Wk6kOpHePhdBEbcGxcMPcTZy9pHhaxWks3s8/qvSrwczq//uu7GRB1qg2YIXR/D35b-vR40zGbWmnN5vZzn3HEh/1x2TH3TcNPRp/VKqoHejS",
+    "stack": [
+      "at window.fetch (<anonymous>:8:48)",
+      "at h (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.314/index.js:4:74879)",
+      "at window.fetch (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.314/index.js:4:74966)",
+      "at https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/browser.oci.js?bid=tiktok_webapp&globalName=SlardarClient:1:15637",
+      "at o (https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/browser.oci.js?bid=tiktok_webapp&globalName=SlardarClient:1:3178)",
+      "at Array.C (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:11559)",
+      "at Y (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:244945)",
+      "at https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:119818",
+      "at Array.C (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:94984)",
+      "at Y (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:244945)"
+    ]
+  },
+  {
+    "u": "Dh32dbJ4NwLsmx18dA7Z4PqkhhCfjMc8RvKeXFShoZYwnc1u0DpbSxYhbfQOP2eF6VcZVNaeIfglPyeqNDpz6KJD5EVXUn5A9uvlFxD0FBzGCKlWomDX51RDUP2GT7BOooM2GS83POaxDJCRSTiIt2W5PKD0eXE/QI6cjM4NST5laquu2RlTw7UGbFIANvvFeIrsgMktHotuYeL9hJ31qi65I3ymc8tbOmKrx2nesYrE0XVI",
+    "stack": [
+      "at window.fetch (<anonymous>:8:48)",
+      "at h (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.314/index.js:4:74879)",
+      "at window.fetch (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok_privacy_protection_framework/loader/2.0.0.314/index.js:4:74966)",
+      "at https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/browser.oci.js?bid=tiktok_webapp&globalName=SlardarClient:1:15637",
+      "at o (https://lf16-cdn-tos.tiktokcdn-us.com/obj/static-tx/slardar/fe/sdk-web/browser.oci.js?bid=tiktok_webapp&globalName=SlardarClient:1:3178)",
+      "at Array.C (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:11559)",
+      "at Y (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:244945)",
+      "at https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:119818",
+      "at Array.C (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:94984)",
+      "at Y (https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk/2.0.0.561/webmssdk.js:1:244945)"
+    ]
+  }
+]

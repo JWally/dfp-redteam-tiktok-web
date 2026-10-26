@@ -1,0 +1,53 @@
+{
+  "gn": [
+    {
+      "u": "https://www.tiktok.com/api/recommend/item_list/?WebIdLastTime=1793022052&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-US&browser_name=Mozilla&browser_online=true&browser_platform=Linux%20x86_64&browse",
+      "t": 1793022053847
+    },
+    {
+      "u": "https://www.tiktok.com/api/preload/item_list/?WebIdLastTime=1793022052&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-US&browser_name=Mozilla&browser_online=true&browser_platform=Linux%20x86_64&browser_",
+      "t": 1793022056333
+    },
+    {
+      "u": "https://www.tiktok.com/api/ba/business/suite/permission/list/?WebIdLastTime=1793022052&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-US&browser_name=Mozilla&browser_online=true&browser_platform=Linux%2",
+      "t": 1793022059687
+    },
+    {
+      "u": "https://webcast.us.tiktok.com/webcast/wallet_api_tiktok/recharge/check_external_entry?WebIdLastTime=1793022052&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-US&browser_name=Mozilla&browser_online=true&",
+      "t": 1793022059994
+    },
+    {
+      "u": "https://www.tiktok.com/api/ba/business/suite/permission/list/?WebIdLastTime=1793022052&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-US&browser_name=Mozilla&browser_online=true&browser_platform=Linux%2",
+      "t": 1793022063313
+    },
+    {
+      "u": "https://www.tiktok.com/api/prefetch/explore/item_list/?WebIdLastTime=1793022052&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-US&browser_name=Mozilla&browser_online=true&browser_platform=Linux%20x86_64",
+      "t": 1793022063378
+    },
+    {
+      "u": "https://www.tiktok.com/api/prefetch/explore/item_list/?WebIdLastTime=1793022052&aid=1988&app_language=en&app_name=tiktok_web&browser_language=en-US&browser_name=Mozilla&browser_online=true&browser_platform=Linux%20x86_64",
+      "t": 1793022063392
+    },
+    {
+      "u": "https://www.tiktok.com/api/recommend/item_list/?aid=1988&app_language=en&device_platform=web&device_id=7240000000000000&iid=7310000000000000&WebIdLastTime=1793019000&X-Dynosaur=MJDXSJBXj4NiHWqZdMlXFdyGZZybDr0Z4t1wqkvQZzT",
+      "t": 1793022065931
+    }
+  ],
+  "state": {
+    "cookie": "tiktok_webapp_theme_source=auto; tiktok_webapp_theme=light; perf_feed_cache={%22expireTimestamp%22:0%2C%22itemIds%22:[]}; delay_guest_mode_vid=5",
+    "hasAC": true,
+    "acKeys": [
+      "frontierSign",
+      "getReferer",
+      "init",
+      "isWebmssdk",
+      "registerWsSigner",
+      "report",
+      "setTTWebid",
+      "setTTWebidV2",
+      "setTTWid",
+      "setUserMode"
+    ],
+    "sw": "controlled"
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "path": "https://www.tiktok.com/api/recommend/item_list/",
+    "gnarly": "McMKztbN7ZtEZ2TtnXQFeDK/Hzbh3RBZIKQrIf56vx9iFhWNsabPSXkvI6Z0L4rSht9jNkVPYcHXMjfESt-JhztmUqbRhDoak51Mgk-nHEzGnBW846K5CP9yYxpWrcroLI9JlGsZxk5MgNKUEHWj4Yf8fvu8-xuFcg2ekOekX2YJyzseSUOC588jPt9Lro7kjk063eOviSuV1nL-Eq/aBE7nCWm04DKc8HOPPPLlYVOO8z5H1P3oJBF8z4XFq69b8FUz5TjvXKD1LDCO3qwhX3dFInMbM7M0LdA4nE5tHvZ3t3f9jzryGqfvBZPShA-zEPWiDXowK5q3",
+    "bogus": "1",
+    "full": "https://www.tiktok.com/api/recommend/item_list/?WebIdLastTime=1793022093&aid=1988&app_language=en&app_name=tiktok_web&br"
+  },
+  {
+    "path": "https://www.tiktok.com/api/preload/item_list/",
+    "gnarly": "MaP6dgSzYNHlAY-11fRRYEjhZ5FqQy5azA6GwqwL8u4u0l9CjvNsBwqMxYrjDJ2F6WxZYfe4D1x56J2Q2XiEdI1xbSCOjNBhT7lmeEHzruJYhJUVc4HivazuZS8qHI6Lw3VOqdxQbY5rJgRkqwEiEVfKdxSqrQU6hXH0O5ewnB5iwhiSBHPoIywxGyhPksNy2c1sNgicuxQuM6YiRz99LoXDwsbP-vDitUZwm385DkTMiBnS-FQKa/Eq/FShln80pqmreAXhq2nCpHZ1kYILR0SAr6MGihcvCwnHIc1-N8O6c4hXe78-bYzWruF4YoLD6BcwY9yQz/Yt",
+    "bogus": "1",
+    "full": "https://www.tiktok.com/api/preload/item_list/?WebIdLastTime=1793022093&aid=1988&app_language=en&app_name=tiktok_web&brow"
+  },
+  {
+    "path": "https://www.tiktok.com/api/ba/business/suite/permission/list/",
+    "gnarly": "MkeBycRHP01JspDFD/KtnfCQHH8fImX4yb9pu7Qs17CtORtgZwJMKxS8HTf1UjLfRJWr4naY4jJwNo0zQ9vnU74YOOcfE3Q3iZxOYMcc/PUbU15o0DyxoKs1rOhtLTnHnAq1XAdqdCZFR-RH5cng644iKyMeZ/SHzDZ7VeTIM-3NheCojUehf8RmAatIp8H3o2mhq/EHRT0Y3PFl6qWXHvv9sfRTzpvUD35PyJoOK1BGgjttghAd50z-oIwPFIsKv9Jw/3R-C1-VGAHNwcH80dqGrUBo4/yK50JEfBbN8k2pS1Mnp-/gWROyzglRDH2mT1Sd0-guWoLe",
+    "bogus": "1",
+    "full": "https://www.tiktok.com/api/ba/business/suite/permission/list/?WebIdLastTime=1793022093&aid=1988&app_language=en&app_name"
+  },
+  {
+    "path": "https://webcast.us.tiktok.com/webcast/wallet_api_tiktok/recharge/check",
+    "gnarly": "MaQ9IsQiEdKoegelBtjXEsfz8cfJ5sbinSLhqqySSC8Kdyvm6-RuWDYqsImK0pwWB3I/U13vL0Z5JkF08/1DON0QNTo1PTGcv4i8O0GW6B0MDD559q1W2pCI3ErMkyRsHXCFv0sd25wgGgPL4rWKufZ6Rd0e9OO0bX3WkfQ72b3FPKgU-OIV92euDs7tYB0-g9qRL160FZeeAMVnnrspnuBr7GWlc34Dh0dC2oXqKnVCuZTBCwXTX2lLSrvUuspdL7-cTjRyZ-Xw6BL8RPq2lJEbYo0eGhT5oMJ2ksb9OyNwtZa7-amxs1Y3dDJp/iApJKch0T9wVPNR",
+    "bogus": "1",
+    "full": "https://webcast.us.tiktok.com/webcast/wallet_api_tiktok/recharge/check_external_entry?WebIdLastTime=1793022093&aid=1988&"
+  },
+  {
+    "path": "https://www.tiktok.com/api/ba/business/suite/permission/list/",
+    "gnarly": "M/8JfOZYp3Rfm6Xo/d6QWix2ody/8OuwHyMtq/PPIpIayqzQ4uoIhGcKoF0-Yqokt7JjsXUtJpy1DlQaBAJwhHczlCLMrlhKVgqtfD2OLKoSiIaenfAO6H2Smcj8wCpjMqM4aoigHpVBtSe4p0YzJbISFgOf-ZyFjsHdYz4DGvEYgm/AhpOdMbB34uz4cxZctWkHO40SBVS/iCxgSjzRnpzCbVrlrXz2orMkSYigpK8Yw0EHqwGDMHMibvh3mgJzy8/oyWiHhZPDsgIaEuWcQjvuZzYcgshRjMqUgCM45hFN8NZbt707xOU3HwsEZ9pRnSKugbene0Q/",
+    "bogus": "1",
+    "full": "https://www.tiktok.com/api/ba/business/suite/permission/list/?WebIdLastTime=1793022093&aid=1988&app_language=en&app_name"
+  },
+  {
+    "path": "https://www.tiktok.com/api/prefetch/explore/item_list/",
+    "gnarly": "MFsfPix/1L-PwTAKvcFvUpR9FFX36dwabbrUIHZwbk1q11gRIccBrbMh/euNRyXQjyEtK-KWtQEsF/MO3OmRTy9D-fmv3ZyY9cG/ZOciazxOOLRulVwmSRBXOvZkLJSn7L/N/v1/DkuKPD2mwSmM2DVVuCahpjaJ5SAFt/t625UwYQPXTJUKHuvfFNRd9xyzI8exr/1My4MZnh0fRu9YUSbowJb-shXBgkpYfuWc06Sk8KXSO1Ny3BNHOzAQnwZ3beFFxOZ2-if33CbJZGqj43GvsZi2ZlOXLs0-YdPpUS4pLBTcgFAjWBJTNXT26ogytDUutKV3izoN",
+    "bogus": "1",
+    "full": "https://www.tiktok.com/api/prefetch/explore/item_list/?WebIdLastTime=1793022093&aid=1988&app_language=en&app_name=tiktok"
+  },
+  {
+    "path": "https://www.tiktok.com/api/prefetch/explore/item_list/",
+    "gnarly": "M/Noa7GwgUF9SJ7U9YjA8TvTx5tODfSFaONIakR1JRDgw-hwlQFcaSqf/b1FO5ZtUUZ/YBkX5LxJS/-qBe0CKou5phqFajsYFtDhrHDZWm45bDGJ2su5MREurXVOXPKLR7SOqB72Be8u/BW-zL6aoSQwxA9iwdcHSu6QkYKn1wp92cMzUmKuzxEkF2xicQOMWlfZkjHc9QKMoF29-DBdqJWLMoM8vCM3EEnXjUEzOZxgSoKgCI2PEbFv9wezTZwUtPq-1p9ctblllGE6J2WhgvgfzMLS3kbzXVzZtu54Fpf7lkYhg6kvNuxEkbDKiu8orJOnAg-RiDVy",
+    "bogus": "1",
+    "full": "https://www.tiktok.com/api/prefetch/explore/item_list/?WebIdLastTime=1793022093&aid=1988&app_language=en&app_name=tiktok"
+  },
+  {
+    "path": "https://www.tiktok.com/api/recommend/item_list/",
+    "gnarly": "MF4/xaO-z1tbldnfllaVPvh0GLi7RKVKaEdUwhn9kwx4J8ZufsGCmUjloHvGy8vqNwjOAz0Vc4DgZtt4fHMtfV8mOV0TcPIeKFt-uOiiItnZVNiIsUijfFjsDrfPjlQ0C9MFYBxKHkgweREEZEft90nZO6HOpmXN9iGrGvKSQiZ--5sJhBQsnWTQ1sXR1B-GvYd0/N6NVqBilSRO4uLI-o13eWp84BJrB3QyaojW8Ajs-UpvX42n8kF617a/yvxEeMJrKkB1eyIiqr09Oq2F6ivXvjdlQ3V44916TCpBxD3B6qcIhMCV9XIP-eOC1kvkGHc1fuV8Ct1C",
+    "bogus": "1",
+    "full": "https://www.tiktok.com/api/recommend/item_list/?aid=1988&device_id=7240000000000000&iid=7310000000000000&X-Dynosaur=MOnW"
+  }
+]

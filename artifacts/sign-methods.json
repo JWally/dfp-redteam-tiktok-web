@@ -1,0 +1,55 @@
+{
+  "globals": [],
+  "acKeys": [
+    "frontierSign",
+    "getReferer",
+    "init",
+    "isWebmssdk",
+    "registerWsSigner",
+    "report",
+    "setTTWebid",
+    "setTTWebidV2",
+    "setTTWid",
+    "setUserMode"
+  ],
+  "calls": [
+    {
+      "k": "frontierSign",
+      "len": 30,
+      "head": "{\"X-Bogus\":\"R0EFrJyOS2tUc5h/\"}"
+    },
+    {
+      "k": "getReferer",
+      "len": 2,
+      "head": "\"\""
+    },
+    {
+      "k": "init",
+      "err": "[object Object]"
+    },
+    {
+      "k": "registerWsSigner",
+      "err": "TypeError: Cannot read properties of undefined (reading 'length')"
+    },
+    {
+      "k": "report",
+      "err": "TypeError: Cannot read properties of undefined (reading 'length')"
+    },
+    {
+      "k": "setTTWebid",
+      "err": "TypeError: Cannot read properties of undefined (reading 'length')"
+    },
+    {
+      "k": "setTTWebidV2",
+      "err": "TypeError: Cannot read properties of undefined (reading 'length')"
+    },
+    {
+      "k": "setTTWid",
+      "err": "TypeError: Cannot read properties of undefined (reading 'length')"
+    },
+    {
+      "k": "setUserMode",
+      "err": "TypeError: Cannot read properties of undefined (reading 'length')"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://www.tiktok.com/tiktok/pns/privacy_headers?aid=1233",
+    "status": 200,
+    "body": "{\"code\":400,\"extra\":{\"fatal_item_ids\":[],\"logid\":\"202610261337166FAD2779BBBCA2127686\",\"now\":1793021836000},\"log_pb\":{\"impr_id\":\"202610261337166FAD2779BBBCA2127686\"},\"message\":\"missing session context\",\"results\":null,\"status_code\":0,\"status_msg\":\"\"}"
+  },
+  {
+    "url": "https://www.tiktok.com/tiktok/pns/privacy_headers?aid=1233",
+    "status": 200,
+    "body": "{\"code\":400,\"extra\":{\"fatal_item_ids\":[],\"logid\":\"2026102613372114A7F3039A2F53F9175E\",\"now\":1793021841000},\"log_pb\":{\"impr_id\":\"2026102613372114A7F3039A2F53F9175E\"},\"message\":\"missing session context\",\"results\":null,\"status_code\":0,\"status_msg\":\"\"}"
+  }
+]
