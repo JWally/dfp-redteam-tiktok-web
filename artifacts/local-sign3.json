@@ -1,0 +1,29 @@
+{
+  "same1": {
+    "X-Bogus": "fBZs4B8tkUhgow1f"
+  },
+  "same2": {
+    "X-Bogus": "fBo3l3nfPnGJTLSj"
+  },
+  "diff1": {
+    "X-Bogus": "f/fEG+EZcGnWowsY"
+  },
+  "urlSign": {
+    "X-Bogus": "6Mv05IaRuF5m7ewc"
+  },
+  "gnarlyKeys": [],
+  "acKeys": [
+    "frontierSign",
+    "getReferer",
+    "init",
+    "isWebmssdk",
+    "registerWsSigner",
+    "report",
+    "setTTWebid",
+    "setTTWebidV2",
+    "setTTWid",
+    "setUserMode"
+  ],
+  "isWebmssdk": true,
+  "getReferer": ""
+}

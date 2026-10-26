@@ -1,0 +1,21 @@
+{
+  "has": true,
+  "keys": [
+    "frontierSign",
+    "getReferer",
+    "init",
+    "isWebmssdk",
+    "registerWsSigner",
+    "report",
+    "setTTWebid",
+    "setTTWebidV2",
+    "setTTWid",
+    "setUserMode"
+  ],
+  "ret": {
+    "X-Bogus": "RpvsHay4j0w2K1pe"
+  },
+  "ret2": {
+    "X-Bogus": "RDFKXoO4owD72XsU"
+  }
+}
