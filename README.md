@@ -60,5 +60,5 @@ Reproduce it yourself:
 python3 scripts/demo-tiktok.py artifacts/gnarly-minted.json
 ```
 
-The full minted values are also at `artifacts/gnarly-minted.json`.
+The full minted values are also at [gnarly-minted.json](artifacts/gnarly-minted.json).
 [Download the mp4](https://raw.githubusercontent.com/JWally/dfp-redteam-tiktok-web/main/assets/videos/full-payload-demo.mp4)
