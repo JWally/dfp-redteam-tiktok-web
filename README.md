@@ -43,3 +43,16 @@ node scripts/tt-probe.mjs     # → probe-log.json + artifacts/ (local only)
 ## Honest boundaries
 No full `X-Gnarly`/`msToken` algorithm reversal (multi-day; `X-Bogus` is
 publicly documented). All API calls fulfilled locally; no user/auth data.
+
+## Demo video — the full minted signatures
+
+`assets/videos/full-payload-demo.mp4` — a terminal-capture video of
+`scripts/demo-tiktok.py` showing the **complete minted X-Gnarly values**
+(332-char signatures per request, minted in-sandbox by the faithful runner —
+no truncation). Reproduce it yourself:
+
+```bash
+python3 scripts/demo-tiktok.py artifacts/gnarly-minted.json
+```
+
+The full minted values are also at `artifacts/gnarly-minted.json`.
