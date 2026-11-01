@@ -46,13 +46,19 @@ publicly documented). All API calls fulfilled locally; no user/auth data.
 
 ## Demo video — the full minted signatures
 
-`assets/videos/full-payload-demo.mp4` — a terminal-capture video of
-`scripts/demo-tiktok.py` showing the **complete minted X-Gnarly values**
-(332-char signatures per request, minted in-sandbox by the faithful runner —
-no truncation). Reproduce it yourself:
+**Watch the capture** (terminal capture of `scripts/demo-tiktok.py` showing the
+complete minted X-Gnarly values — 332-char signatures per request, minted
+in-sandbox by the faithful runner, no truncation):
+
+<img src="assets/videos/full-payload-demo.gif" width="720" alt="TikTok minted signatures demo" />
+
+<video controls preload="metadata" width="720"><source src="assets/videos/full-payload-demo.mp4" type="video/mp4"></video>
+
+Reproduce it yourself:
 
 ```bash
 python3 scripts/demo-tiktok.py artifacts/gnarly-minted.json
 ```
 
 The full minted values are also at `artifacts/gnarly-minted.json`.
+[Download the mp4](https://raw.githubusercontent.com/JWally/dfp-redteam-tiktok-web/main/assets/videos/full-payload-demo.mp4)
